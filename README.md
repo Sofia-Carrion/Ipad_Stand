@@ -26,7 +26,7 @@ The client requested that the stand be easy to use, meaning the iPad should be e
 
 To create the CAD model, I took precise measurements of the iPad to ensure a snug fit and used an online model to observe its appearance, allowing the device to stand relatively upright.
 
-PDF of (very) condensed design process in form of sketches: [PDF_Sketches](IPad_Stand.pdf).
+PDF of (very) condensed design process in the form of sketches: [PDF_Sketches](Ipad_Stand.pdf).
 
 ## Credits
 
