@@ -12,7 +12,7 @@ The CAD work was completed using SolidWorks 2023. Both the SLDPRT and STL files 
 ## Design Process
 The design process for this project was straightforward. The goal was to create a stand that could simply hold an iPad when it wasn't being used.
 
-I drew inspiration from various stands and docks, such as the charging dock for the Nintendo Switch. I appreciated the straightforward design of the Switch dock, which securely holds the device upright. Given that I would be 3D printing this stand, I modified the shape to prevent it from tipping over if bumped. To enhance stability, I added fillets to both sides. A sketch of this can be seen below:
+I drew inspiration from various stands and docks, such as the charging dock for the Nintendo Switch. I appreciated the straightforward design of the Switch dock, which securely holds the device upright. Given that I would be 3D printing this stand (and it wasn't weighted at the bottom), I modified the shape to prevent it from tipping over if bumped. To enhance stability, I added fillets to both sides. A sketch of this can be seen below:
 
 <p align="center">
   <img src="iPad_D1.jpg" alt="Design 1" width="400"/>
@@ -24,7 +24,7 @@ The client requested that the stand be easy to use, meaning the iPad should be e
   <img src="iPad_D2.jpg" alt="Design 2" width="400"/>
 </p>
 
-To create the CAD model, I took precise measurements of the iPad to ensure a snug fit, allowing the device to stand relatively upright.
+To create the CAD model, I took precise measurements of the iPad to ensure a snug fit and used an online model to observe its appearance, allowing the device to stand relatively upright.
 
 PDF of (very) condensed design process in form of sketches: [PDF_Sketches](IPad_Stand.pdf).
 
